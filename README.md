@@ -67,5 +67,65 @@ the question area, and the score area.
    ![scorearea](assets/readme-images/scorearea.png "SCOREAREA")
 
 
+  <h1>Testing</h1> 
+     <h2>Manual Testing</h2> 
+       <ul>
+        <li>
+          I tested love maths site on microsoft edge, chrome and firefox. It works in these browsers.
+        </li>
+        <li>I can confirm that the all the functions used in love maths site are working perfecting well includind the arithmethic returning the expected result. using "Am I Responsive tool.</li>
+        <li>The love math site is very responsive on different device. This is achieved by using "Am I Responsive tool".This will enable users to play love maths on different device.</li>
+      </ul>
+
+  <h2>Validation Testing</h2>
+    <h3>HTML</h3>  
+       <ul><li>No errors were found when passing through official W3C validator<li></ul> 
+
+  <h3>CSS</h3> 
+   <ul><li>No errors were found when passing through official(Jigsaw) css validator</li></ul> 
+
+   <h3>JavaScript</h3>
+    <ul>
+      <li>No errors were found when passing through Jshint validator.</li>
+        The following Information metrics were returned:
+      <li>There are 13 functions in the file.</li>
+      <li>Function with the largest signature takes Two arguments, while the median is 0.</li>
+      <li>Largest function has 11 statements in it, while the median is 3.</li>
+      <li>The most complex function has cyclomatic complexity value of 5, while the median is 2.</li>
+   </ul> 
+
+   <h3>Accessibility</h3>
+    <ul>
+     <li>The font icon, text and color used in love maths site can be visually seen when user play love maths. This was achieved by running love maths through lighthouse. There are issues of my chrome as indicated in the image below.</li>
+    </ul>
+
+  ![accessibility](assets/readme-images/accessibility-image.png "ACCESSIBILITY")
+
+  <h1>Deployment</h1>
+    <ul><li>Love maths was deployed using the followning steps:</li></ul>
+     <ol>
+      <li>Navigate to GitHub page, and click the settings.</li>
+      <li>Scroll to the source menu and select main.</li> 
+      <li>Once the main is selected, the page will load automatically and display the page link.</li> 
+
+  <li>The link can be found here - https://victormgbam.github.io/love-maths/</li>  
+  </ol>
+
+  <h1>Credits</h1>
+
+  <h3>Content</h3>
+   <ul>
+     <li>The code used for love maths project site was taken from code institute love maths project.</li>
+     <li>The font icon was taken from love maths project.</li>
+     <li>The instruction on validation was taken from code institute tutorials.</li>
+   </ul>
+
+   <h3>Media</h3>
+   <ul>The image used in love maths was generated using "AM I RESPONSIVE and LIGHTHOUSE".</ul>
+
+
+
+
+
 
   
